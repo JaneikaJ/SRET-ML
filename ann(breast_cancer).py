@@ -1,5 +1,4 @@
-# -*- coding: utf-8 -*-
-"""ANN(Breast_Cancer).ipynb
+
 
 
 pip install ucimlrepo
